@@ -4,7 +4,7 @@
         <v-btn elevation="4" size="x-large">Elevation 4</v-btn>
       </v-col>
       <v-btn>
-        Here
+        New Button
       </v-btn>
   </div>
 </template>
